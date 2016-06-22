@@ -18,11 +18,6 @@ canonifyurls = true
         link = "mailto:order@fibery.ru"
 
 	[[params.social]]
-		title = "Twitter"
-		icon = "fa-twitter"
-		link = "#"
-
-	[[params.social]]
 		title = "Instagram"
 		icon = "fa-instagram"
 		link = "#"

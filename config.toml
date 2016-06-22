@@ -9,6 +9,13 @@ canonifyurls = true
 	name = "Fibery"
 	position = "магазин ниток"
     avatar = "klubok.png"
+    background = "bg4.jpg"
+    email = "order@fibery.ru"
+
+    [[params.social]]
+        title = "Email"
+        icon = "fa-envelope-o"
+        link = "mailto:order@fibery.ru"
 
 	[[params.social]]
 		title = "Twitter"

@@ -1,13 +1,30 @@
 baseurl = "http://fibery.ru/"
 languageCode = "ru-ru"
 title = "Fibery"
-theme = "hugo-cactus-theme"
+theme = "hugo-identity-theme"
 publishdir = "public"
 canonifyurls = true
 
 [params]
 	name = "Fibery"
-	description = "магазин ниток"
-	bio = "супер магазин ниток"
-	# Enter optionally your twitter account
-	twitter = "fibery_ru"
+	position = "магазин ниток"
+    avatar = "klubok.png"
+
+	[[params.social]]
+		title = "Twitter"
+		icon = "fa-twitter"
+		link = "#"
+
+	[[params.social]]
+		title = "Instagram"
+		icon = "fa-instagram"
+		link = "#"
+
+	[[params.social]]
+		title = "Facebook"
+		icon = "fa-facebook"
+		link = "#"
+
+	# Footer settings
+	[params.footer]
+		copyright = "команда Fibery"

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Fibery</title>
+    <link>http://fibery.ru/about/</link>
+    <description>Recent content in Abouts on Fibery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 22 Jun 2016 22:42:08 +0300</lastBuildDate>
+    <atom:link href="http://fibery.ru/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>index</title>
+      <link>http://fibery.ru/about/</link>
+      <pubDate>Wed, 22 Jun 2016 22:42:08 +0300</pubDate>
+      
+      <guid>http://fibery.ru/about/</guid>
+      <description>
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ullam earum dolorum! Sed, perspiciatis.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;lorem-ipsum-dolor&#34;&gt;Lorem ipsum dolor.&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea dicta corporis ad inventore itaque impedit dolor atque amet exercitationem! Veniam qui voluptas maiores vel laudantium necessitatibus, velit ducimus! Iste hic facere, accusamus fugiat enim facilis.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

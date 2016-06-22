@@ -1,0 +1,7 @@
+baseurl = "http://fibery.ru/"
+languageCode = "ru-ru"
+title = "Fibery"
+contentdir = "content/post"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true

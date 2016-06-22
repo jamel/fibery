@@ -1,7 +1,6 @@
 baseurl = "http://fibery.ru/"
 languageCode = "ru-ru"
 title = "Fibery"
-contentdir = "content/post"
-layoutdir = "layouts"
+theme = "hugo-cactus-theme"
 publishdir = "public"
 canonifyurls = true

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Fibery</title>
+    <title>Posts on Fibery - магазин ниток</title>
     <link>http://fibery.ru/post/</link>
-    <description>Recent content in Posts on Fibery</description>
+    <description>Recent content in Posts on Fibery - магазин ниток</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Wed, 22 Jun 2016 22:43:55 +0300</lastBuildDate>

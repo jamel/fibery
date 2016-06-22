@@ -1,6 +1,6 @@
 baseurl = "http://fibery.ru/"
 languageCode = "ru-ru"
-title = "Fibery"
+title = "Fibery - магазин ниток"
 theme = "hugo-identity-theme"
 publishdir = "public"
 canonifyurls = true

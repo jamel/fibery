@@ -20,12 +20,12 @@ canonifyurls = true
 	[[params.social]]
 		title = "Instagram"
 		icon = "fa-instagram"
-		link = "https://www.instagram.com/fibery_ru/"
+		link = "https://www.instagram.com/fibery.ru/"
 
 	[[params.social]]
 		title = "Facebook"
 		icon = "fa-facebook"
-		link = "https://www.facebook.com/fibery_ru"
+		link = "https://www.facebook.com/fibery.ru"
 
 	# Footer settings
 	[params.footer]

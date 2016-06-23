@@ -25,7 +25,12 @@ canonifyurls = true
 	[[params.social]]
 		title = "Facebook"
 		icon = "fa-facebook"
-		link = "https://www.facebook.com/fibery.ru"
+		link = "https://www.facebook.com/fibery"
+
+	[[params.social]]
+		title = "Vkontakte"
+		icon = "fa-vk"
+		link = "https://www.vk.com/fibery"
 
 	# Footer settings
 	[params.footer]

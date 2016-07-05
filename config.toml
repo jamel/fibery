@@ -7,7 +7,7 @@ canonifyurls = true
 
 [params]
 	name = "Fibery"
-	position = "магазин трикотажных ниток и аксессуаров"
+	position = "магазин пряжи и аксессуаров"
     avatar = "klubok.png"
     background = "bg4.jpg"
     email = "order@fibery.ru"
